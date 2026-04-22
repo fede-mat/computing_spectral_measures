@@ -1,4 +1,4 @@
-# computing_spectral_mearues
+# computing_spectral_measures
 Repository Of The seminar: Computational Dynamics
 
 #### Supervisor: 
